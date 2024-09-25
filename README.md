@@ -6,36 +6,47 @@
 ---
 
 ## 🙋‍♂️ About Me  
-With a strong foundation in banking and finance, I have been an Executive at Commercial Bank of Ceylon PLC since 2018. I specialize in credit services and operational management. I am deeply passionate about IT, currently pursuing a pathway into software engineering, aiming to transition into the tech industry with a solid background in Java and finance.
+With a robust foundation in banking and finance, I bring over 6 years of experience working as an Executive at Commercial Bank of Ceylon PLC. I have honed my skills in leadership, client relationship management, and credit services, blending practical experience with my academic background. My journey into the IT world is fueled by my passion for software engineering, and I am excited to pursue an IT-related degree to make my mark in the industry. Combining my banking expertise with a tech-driven future, I look forward to embracing innovation.
 
 ---
 
-## 🚀 Projects  
-### 1. **Credit Services Enhancement Project**  
-Led a project within the credit department to streamline credit service offerings to loyal customers, improving approval times by 25% and increasing client satisfaction. This initiative strengthened customer loyalty and improved service quality at the branch level.
+## 🎓 Education  
+### **Institute of Bankers of Sri Lanka**  
+*2018 - Present*  
+Successfully completed the **Diploma in Banking for Intermediate Applied Banking and Finance** in 2023, building a comprehensive understanding of financial services, banking regulations, and operational management.
 
-### 2. **Customer Relationship Optimization**  
-Collaborated with branch teams to improve customer data management and service response times by automating several manual processes. The project resulted in a 20% reduction in service bottlenecks.
+### **Java Institute of Sri Lanka**  
+*2018*  
+Learned the fundamentals of **Java programming**, laying the groundwork for my pursuit of software development and a career in IT.
 
-### 3. **Java Programming Learning Initiative**  
-After learning Java basics in 2018, I created a series of small applications and scripts to automate routine tasks in banking operations, improving daily workflow efficiency.
+### **Ananda College Colombo 10**  
+*Primary to Advanced Level (2000 - 2016)*  
+Attended one of Sri Lanka’s premier schools, successfully completing my Advanced Level examination in 2016. My academic journey here shaped my discipline and leadership skills, preparing me for both the financial and IT sectors.
 
 ---
 
-## 💻 Technical Skills  
-- **Languages**: Java, Python (learning)  
-- **Banking Systems**: Oracle FLEXCUBE, Finacle  
-- **Tools**: MS Excel (advanced), SQL  
-- **Soft Skills**: Leadership, Customer Relationship Management, Team Collaboration
+## 💼 Work Experience  
+### **Commercial Bank of Ceylon PLC**  
+**Executive – Credit Department**  
+*March 2018 – Present*  
+As an Executive at the Commercial Bank, I am responsible for managing and delivering credit services to a wide array of clients, ensuring compliance with banking regulations and maintaining excellent customer relationships. I work closely with internal teams to improve operational processes and enhance the bank’s overall service delivery. My leadership role has allowed me to navigate complex financial scenarios, ensuring client satisfaction while fostering long-term relationships with loyal customers.
+
+---
+
+## 💻 Skills  
+- **Banking & Finance**: Extensive experience in credit services, client relationship management, and financial operations.  
+- **Programming**: Knowledge in **Java**, currently learning **Python** for software engineering.  
+- **Tools**: MS Excel (advanced), SQL, Oracle FLEXCUBE, Finacle.  
+- **Soft Skills**: Leadership, teamwork, customer relations, problem-solving.
 
 ---
 
 ## 🎯 Other Interests  
-- **🏏 Cricket**: Played competitively until age 17 under Maharagama Youth Centre (club level)  
-- **🎮 Gaming**  
-- **🎬 Watching Films**  
-- **💻 Programming**: Currently learning Python and building small projects  
+- **🏏 Cricket**: Played club-level cricket until the age of 17 under Maharagama Youth Centre.  
+- **🎮 Gaming**: Passionate about video games and their design elements.  
+- **🎬 Movies**: Avid film enthusiast with a love for both storytelling and technology in cinema.  
+- **💻 Programming**: Actively learning Python, building small projects to enhance my skills.
 
 ---
 
-🚀 *"Excited to merge my finance expertise with a new career in IT and software development!"*
+🚀 *"With a solid background in finance and a passion for technology, I am committed to bridging the two industries to drive innovation!"*
