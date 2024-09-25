@@ -1,38 +1,41 @@
 # 🌟 Shasika Wijesuriya  
-**Executive @ Commercial Bank**  
+**Executive @ Commercial Bank of Ceylon PLC**  
 📞 **Phone**: +97 777161240  
 ✉️ **Email**: shasikawijesuriya@lifepathedu.com  
 
 ---
 
 ## 🙋‍♂️ About Me  
-With a strong foundation in banking and finance, I bring extensive experience as an executive at Commercial Bank. I have honed my skills in leadership, client relations, and operational management, combining practical expertise with an academic background that fuels my strategic insights. 
+With a strong foundation in banking and finance, I have been an Executive at Commercial Bank of Ceylon PLC since 2018. I specialize in credit services and operational management. I am deeply passionate about IT, currently pursuing a pathway into software engineering, aiming to transition into the tech industry with a solid background in Java and finance.
 
 ---
 
 ## 🚀 Projects  
-### 1. **Client Relationship Management Revamp**  
-Led a project to streamline and digitize the bank's client relationship management system, improving customer satisfaction by 20% and reducing manual processes by 30%. This initiative resulted in better data accuracy and faster response times.
+### 1. **Credit Services Enhancement Project**  
+Led a project within the credit department to streamline credit service offerings to loyal customers, improving approval times by 25% and increasing client satisfaction. This initiative strengthened customer loyalty and improved service quality at the branch level.
 
-### 2. **Operational Efficiency Overhaul**  
-Implemented process automation across multiple departments, reducing operational costs by 15% and enhancing overall service delivery. This project increased employee productivity and improved service reliability for clients.
+### 2. **Customer Relationship Optimization**  
+Collaborated with branch teams to improve customer data management and service response times by automating several manual processes. The project resulted in a 20% reduction in service bottlenecks.
 
-### 3. **Banking Compliance Modernization**  
-Spearheaded a compliance modernization project to align with evolving industry regulations. This initiative involved collaborating with cross-functional teams, ensuring that the bank meets legal requirements while maintaining operational efficiency.
+### 3. **Java Programming Learning Initiative**  
+After learning Java basics in 2018, I created a series of small applications and scripts to automate routine tasks in banking operations, improving daily workflow efficiency.
 
 ---
 
 ## 💻 Technical Skills  
-- **Languages**: Python, SQL, VBA  
-- **Tools**: MS Excel (advanced), Tableau, Jira, Salesforce  
+- **Languages**: Java, Python (learning)  
 - **Banking Systems**: Oracle FLEXCUBE, Finacle  
+- **Tools**: MS Excel (advanced), SQL  
+- **Soft Skills**: Leadership, Customer Relationship Management, Team Collaboration
 
 ---
 
 ## 🎯 Other Interests  
-- **🏏 Playing Cricket**  
+- **🏏 Cricket**: Played competitively until age 17 under Maharagama Youth Centre (club level)  
 - **🎮 Gaming**  
 - **🎬 Watching Films**  
+- **💻 Programming**: Currently learning Python and building small projects  
 
----  
-🚀 *"Striving for innovation and operational excellence in every project I lead!"*
+---
+
+🚀 *"Excited to merge my finance expertise with a new career in IT and software development!"*
